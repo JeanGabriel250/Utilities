@@ -1,0 +1,3 @@
+Script Creado Por Jean Gabriel
+
+loadstring(game:HttpGet("https://pastebin.com/raw/tWGxhNq0"))()
